@@ -1,0 +1,7 @@
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\obj\Debug\Prog4.csprojAssemblyReference.cache
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\obj\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\ljwal\Box\School\Computer Information Systems\CIS 199\Programs\Prog4\Prog4\obj\Debug\Prog4.pdb
